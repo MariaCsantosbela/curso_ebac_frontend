@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    background-color:beige;
+
+}
+
+header{
+    background-color: beige;
+    padding: 16px 0;
+    color: blue;
+    display: flex;
+    border-bottom: 18px solid yellow;
+    justify-content: center;
+    font-size: larger;
+    text-transform: uppercase;
+    
+}
+
+form{
+    background-color: rgb(228, 206, 206);
+    color: black;
+    text-align: center;
+    font-size: larger;
+    padding: 24px 0;
+    text-transform: uppercase;
+    font-style: italic;
+
+
+}
+
+input , button{
+    padding: 8px;
+
+}
+
+button {
+    background-color: #85d8a1 ;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:rgb(7, 3, 3);
+}
+li {
+    background-color: aqua;
+    cursor: pointer;
+
+
+}
+.tarefa-concluida {
+color: red
+}
+
+
+
+
