@@ -1,0 +1,19 @@
+
+body{
+    background-color:rgba(255, 228, 196, 0.418)
+}
+a.btn{
+    display: block;
+}
+.flor{
+    display: flex;
+    align-items: center;
+    
+}
+.flor img{
+    max-width: 70px;
+    max-height: 70px;
+    border-radius: 50px 50px 50px 50px ;
+    margin-right: 15px;
+    
+}
